@@ -1,5 +1,6 @@
 <?php
 
+// By Supun at www.hyvor.com
 
 class HyFile {
 
