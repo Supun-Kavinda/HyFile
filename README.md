@@ -1,4 +1,4 @@
 # HyFile
 Effective way to access files with php
 
-Created By Supun - Designer at hyvor.com
+Created By Supun - Designer at www.hyvor.com
